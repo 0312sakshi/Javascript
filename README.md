@@ -1,3 +1,3 @@
 # Javascript - demo
-My first JS code
+My first JS code.
 Author - Sakshi Singh
